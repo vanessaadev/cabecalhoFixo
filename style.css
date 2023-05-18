@@ -1,0 +1,16 @@
+.container {
+  position: relative;
+  height: 400px; /* Defina a altura do container conforme necessário */
+  overflow-y: scroll;
+}
+
+.header {
+  position: sticky;
+  top: 0;
+  background-color: #f1f1f1; /* Cor de fundo do cabeçalho */
+  padding: 10px;
+}
+
+.content {
+  color: blue;
+}
